@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi, I'm Berfu Hena Azazi 👋
 
-<!--
-**berfuhena/berfuhena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SaaS Growth Content Strategist · SEO & GEO Specialist · Content Operations Leader**
 
-Here are some ideas to get you started:
+I help products and services grow through strategic content, system design, and operations. With a background in **Industrial Design** and **7+ years of experience** leading growth, SEO, and content operations in B2B SaaS companies, I focus on complex strategic problems that combine **UX, Information Architecture (IA), and SEO**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔍 Core Focus Areas
+
+* **Generative Engine Optimization (GEO) & AEO:** Structuring content, entities, and schema so LLMs and AI search engines accurately retrieve, synthesize, and cite brand authority.
+* **Technical SEO & Information Architecture:** Designing clean site hierarchies, internal linking models, and programmatic content frameworks built for crawlability and conversion.
+* **Content Operations & AI Workflows:** Building repeatable editorial pipelines, taxonomy systems, and AI-assisted research workflows for global SaaS teams.
+* **Design-Led Content Strategy:** Applying industrial design principles—systems thinking, user empathy, and functional clarity—to complex technical topics.
+
+---
+
+### 🌐 Connect & Explore
+
+* **Personal Website:** [berfuhenaazazi.com](https://www.berfuhenaazazi.com)
+* **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/berfuhenaazazi)
+* **Mentorship:** [ADPList Mentor Profile]([https://adplist.org](https://adplist.org/mentors/berfu-hena-azazi))
+* **Location:** Ankara, Türkiye
