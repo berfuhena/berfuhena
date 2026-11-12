@@ -19,5 +19,5 @@ I help products and services grow through strategic content, system design, and 
 
 * **Personal Website:** [berfuhenaazazi.com](https://www.berfuhenaazazi.com)
 * **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/berfuhenaazazi)
-* **Mentorship:** [ADPList Mentor Profile]([https://adplist.org](https://adplist.org/mentors/berfu-hena-azazi))
+* **Mentorship:** [ADPList Mentor Profile]([https://adplist.org/mentors/berfu-hena-azazi)
 * **Location:** Ankara, Türkiye
